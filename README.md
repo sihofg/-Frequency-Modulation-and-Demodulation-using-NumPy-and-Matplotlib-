@@ -59,7 +59,8 @@ plt.show()
 __Output:__
 
 <img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/c29c620d-0c19-4e01-ba31-b80bcd1949eb" />
-![WhatsApp Image 2025-11-22 at 17 45 45_08180630](https://github.com/user-attachments/assets/898f7589-893e-4010-a0bf-13b0553950fc)
+
+![WhatsApp Image 2025-11-22 at 17 45 45_0d591e02](https://github.com/user-attachments/assets/74e8a0cd-68c8-4cc2-8b9f-ffa2b80ef48a)
 
 __Result:__
 
